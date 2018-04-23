@@ -26,10 +26,6 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-/**
- *
- * @author narayan
- */
 public class LiteBrite extends Application {
 	private static ColorPicker colorPicker = new ColorPicker();
 	
